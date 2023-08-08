@@ -1,0 +1,26 @@
+﻿@page "/"
+@using Grpc.Net.Client;
+
+<PageTitle>Index</PageTitle>
+
+<h1>Hello, world!</h1>
+
+Welcome to your new app.
+
+<SurveyPrompt Title="How is Blazor working for you?" />
+
+@code {
+    private async Task Greet()
+    {
+        using var channel = GrpcChannel.ForAddress("https://localhost:5092");
+        var client = new Greeter.GreeterClient(channel);
+        var response = await client.SayHelloAsync(new HelloRequest { });
+        Console.WriteLine("ahoj");
+        Console.WriteLine(response);
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        await Greet();
+    }
+}
