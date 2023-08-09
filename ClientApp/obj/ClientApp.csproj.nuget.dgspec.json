@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marti\\Desktop\\KostLAN\\banik pico\\TeachEvalz\\TeachEvalz\\ClientApp\\ClientApp.csproj": {}
+    "C:\\Users\\Marti\\Desktop\\KostLAN\\TeachEvalz\\ClientApp\\ClientApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marti\\Desktop\\KostLAN\\banik pico\\TeachEvalz\\TeachEvalz\\ClientApp\\ClientApp.csproj": {
+    "C:\\Users\\Marti\\Desktop\\KostLAN\\TeachEvalz\\ClientApp\\ClientApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marti\\Desktop\\KostLAN\\banik pico\\TeachEvalz\\TeachEvalz\\ClientApp\\ClientApp.csproj",
+        "projectUniqueName": "C:\\Users\\Marti\\Desktop\\KostLAN\\TeachEvalz\\ClientApp\\ClientApp.csproj",
         "projectName": "ClientApp",
-        "projectPath": "C:\\Users\\Marti\\Desktop\\KostLAN\\banik pico\\TeachEvalz\\TeachEvalz\\ClientApp\\ClientApp.csproj",
+        "projectPath": "C:\\Users\\Marti\\Desktop\\KostLAN\\TeachEvalz\\ClientApp\\ClientApp.csproj",
         "packagesPath": "C:\\Users\\Marti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marti\\Desktop\\KostLAN\\banik pico\\TeachEvalz\\TeachEvalz\\ClientApp\\obj\\",
+        "outputPath": "C:\\Users\\Marti\\Desktop\\KostLAN\\TeachEvalz\\ClientApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

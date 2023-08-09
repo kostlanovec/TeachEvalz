@@ -36,3 +36,46 @@ C:\Users\Marti\Desktop\KostLAN\banik pico\TeachEvalz\TeachEvalz\AppServer.API\bi
 C:\Users\Marti\Desktop\KostLAN\banik pico\TeachEvalz\TeachEvalz\AppServer.API\bin\Debug\net7.0\Grpc.AspNetCore.Web.dll
 C:\Users\Marti\Desktop\KostLAN\banik pico\TeachEvalz\TeachEvalz\AppServer.API\bin\Debug\net7.0\AutoMapper.dll
 C:\Users\Marti\Desktop\KostLAN\banik pico\TeachEvalz\TeachEvalz\AppServer.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\bin\Debug\net7.0\appsettings.json
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\bin\Debug\net7.0\AppServer.Core.deps.json
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\bin\Debug\net7.0\AppServer.Core.runtimeconfig.json
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\bin\Debug\net7.0\AppServer.Core.exe
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\bin\Debug\net7.0\AppServer.API.exe
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\bin\Debug\net7.0\AppServer.API.deps.json
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\bin\Debug\net7.0\AppServer.API.runtimeconfig.json
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\bin\Debug\net7.0\AppServer.API.dll
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\bin\Debug\net7.0\AppServer.API.pdb
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\bin\Debug\net7.0\Grpc.AspNetCore.Server.dll
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\bin\Debug\net7.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\bin\Debug\net7.0\Grpc.AspNetCore.Web.dll
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\bin\Debug\net7.0\Grpc.Core.Api.dll
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\bin\Debug\net7.0\Grpc.Net.Client.dll
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\bin\Debug\net7.0\Grpc.Net.Client.Web.dll
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\bin\Debug\net7.0\Grpc.Net.ClientFactory.dll
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\bin\Debug\net7.0\Grpc.Net.Common.dll
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\bin\Debug\net7.0\AppServer.Core.dll
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\bin\Debug\net7.0\AppServer.Core.pdb
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\obj\Debug\net7.0\AppServer.API.csproj.AssemblyReference.cache
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\obj\Debug\net7.0\AppServer.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\obj\Debug\net7.0\AppServer.API.AssemblyInfoInputs.cache
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\obj\Debug\net7.0\AppServer.API.AssemblyInfo.cs
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\obj\Debug\net7.0\AppServer.API.csproj.CoreCompileInputs.cache
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\obj\Debug\net7.0\AppServer.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\obj\Debug\net7.0\staticwebassets\msbuild.AppServer.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\obj\Debug\net7.0\staticwebassets\msbuild.build.AppServer.API.props
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AppServer.API.props
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AppServer.API.props
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\obj\Debug\net7.0\scopedcss\bundle\AppServer.API.styles.css
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\obj\Debug\net7.0\AppServer.API.csproj.CopyComplete
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\obj\Debug\net7.0\AppServer.API.dll
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\obj\Debug\net7.0\refint\AppServer.API.dll
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\obj\Debug\net7.0\AppServer.API.pdb
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\obj\Debug\net7.0\AppServer.API.genruntimeconfig.cache
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\obj\Debug\net7.0\ref\AppServer.API.dll

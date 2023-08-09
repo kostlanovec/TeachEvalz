@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MFhMKF3ZXThfndXK4wBY0xOkB2FZN49SMTHIT9ZaenlWt53FNSqOE4XcnDkS++6a9Sijw0wG9jzqV9o+5s3lZw==",
+  "dgSpecHash": "HluXlXCTZWtjR5wwcC1sbfln9Smp7LiBn743obBHylXztqtDcjk4ReV3HCR0rjKxARht5atuY3BKRK2mUV1Klg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Marti\\Desktop\\KostLAN\\banik pico\\TeachEvalz\\TeachEvalz\\ClientApp\\ClientApp.csproj",
+  "projectFilePath": "C:\\Users\\Marti\\Desktop\\KostLAN\\TeachEvalz\\ClientApp\\ClientApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Marti\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Marti\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

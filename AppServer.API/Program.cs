@@ -1,4 +1,6 @@
 using AppServer.API.Services;
+using AppServer.Core.Services;
+using AppServer.Core.Services.Interfaces;
 using Grpc.AspNetCore.Server;
 using Grpc.AspNetCore.Web;
 
@@ -21,6 +23,8 @@ builder.Services.AddCors(options =>
         .AllowAnyMethod(); 
     });
 });
+
+builder.Services.AddScoped<IGreetService, GreetService>(); //Maps the interface to the class
 
 var app = builder.Build();
 
