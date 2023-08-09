@@ -34,3 +34,5 @@ C:\Users\Marti\Desktop\KostLAN\banik pico\TeachEvalz\TeachEvalz\AppServer.API\ob
 C:\Users\Marti\Desktop\KostLAN\banik pico\TeachEvalz\TeachEvalz\AppServer.API\obj\Debug\net7.0\ref\AppServer.API.dll
 C:\Users\Marti\Desktop\KostLAN\banik pico\TeachEvalz\TeachEvalz\AppServer.API\bin\Debug\net7.0\Grpc.Net.Client.Web.dll
 C:\Users\Marti\Desktop\KostLAN\banik pico\TeachEvalz\TeachEvalz\AppServer.API\bin\Debug\net7.0\Grpc.AspNetCore.Web.dll
+C:\Users\Marti\Desktop\KostLAN\banik pico\TeachEvalz\TeachEvalz\AppServer.API\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Marti\Desktop\KostLAN\banik pico\TeachEvalz\TeachEvalz\AppServer.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

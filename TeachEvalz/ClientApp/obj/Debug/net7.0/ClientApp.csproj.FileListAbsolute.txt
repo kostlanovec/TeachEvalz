@@ -854,3 +854,11 @@ C:\Users\Marti\Desktop\KostLAN\banik pico\TeachEvalz\TeachEvalz\ClientApp\bin\De
 C:\Users\Marti\Desktop\KostLAN\banik pico\TeachEvalz\TeachEvalz\ClientApp\obj\Debug\net7.0\build-gz\gjV5tkuk.gz
 C:\Users\Marti\Desktop\KostLAN\banik pico\TeachEvalz\TeachEvalz\ClientApp\obj\Debug\net7.0\build-gz\E0wmJUXN.gz
 C:\Users\Marti\Desktop\KostLAN\banik pico\TeachEvalz\TeachEvalz\ClientApp\obj\Debug\net7.0\build-gz\3i+lYS8+.gz
+C:\Users\Marti\Desktop\KostLAN\banik pico\TeachEvalz\TeachEvalz\ClientApp\bin\Debug\net7.0\wwwroot\_framework\AutoMapper.dll
+C:\Users\Marti\Desktop\KostLAN\banik pico\TeachEvalz\TeachEvalz\ClientApp\bin\Debug\net7.0\wwwroot\_framework\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Marti\Desktop\KostLAN\banik pico\TeachEvalz\TeachEvalz\ClientApp\bin\Debug\net7.0\wwwroot\_framework\AutoMapper.dll.gz
+C:\Users\Marti\Desktop\KostLAN\banik pico\TeachEvalz\TeachEvalz\ClientApp\bin\Debug\net7.0\wwwroot\_framework\AutoMapper.Extensions.Microsoft.DependencyInjection.dll.gz
+C:\Users\Marti\Desktop\KostLAN\banik pico\TeachEvalz\TeachEvalz\ClientApp\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Marti\Desktop\KostLAN\banik pico\TeachEvalz\TeachEvalz\ClientApp\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Marti\Desktop\KostLAN\banik pico\TeachEvalz\TeachEvalz\ClientApp\obj\Debug\net7.0\build-gz\TwhufNTd.gz
+C:\Users\Marti\Desktop\KostLAN\banik pico\TeachEvalz\TeachEvalz\ClientApp\obj\Debug\net7.0\build-gz\ZftrTK1r.gz

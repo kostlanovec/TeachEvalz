@@ -44,9 +44,13 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
             "Grpc.AspNetCore": {
               "target": "Package",
-              "version": "[2.49.0, )"
+              "version": "[2.55.0, )"
             },
             "Grpc.AspNetCore.Web": {
               "target": "Package",
@@ -67,6 +71,10 @@
             "Microsoft.AspNetCore.Cors": {
               "target": "Package",
               "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             }
           },
           "imports": [

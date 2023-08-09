@@ -7,6 +7,8 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
+      "AutoMapper.dll": "sha256-IPLECjhzAo5JapVuuAB\/ZT5OGwiSRZEKxtY7EMNCH38=",
+      "AutoMapper.Extensions.Microsoft.DependencyInjection.dll": "sha256-RFmP6C+\/wYl1ISrVBekC+K2zrBwqPDUwvi8dVw+tiUY=",
       "Google.Protobuf.dll": "sha256-xZAb2ezIEYJgxVqJDMC7qJopUV1bZG+3KEa3HoL49gI=",
       "Grpc.Core.Api.dll": "sha256-buTDgnpMU6\/1uHOb7wgjzBO4HSduFir7ZL9LdN2aPc4=",
       "Grpc.Net.Client.dll": "sha256-X6gUAg4wCpV0Hp+QsVKKUqOiVmddU2XiQFYs4ziDFq8=",
@@ -205,13 +207,13 @@
       "mscorlib.dll": "sha256-kgowZLZGyceaJo4bHvVY1kmm1GJuawa5rPO1RCfNYWc=",
       "netstandard.dll": "sha256-2\/SuexPFW8hizUgbgPcchYHfG\/zmGzzMN6ESSyefPRQ=",
       "System.Private.CoreLib.dll": "sha256-mcywrbK0VZXiOvZ4dxU1ocaPZFplCRSIPQ\/wFikcrus=",
-      "ClientApp.dll": "sha256-SzqWm0V44N9+PL1TLVt5iZvvaB1q+u5c+bmHV0BZAKU="
+      "ClientApp.dll": "sha256-3quy8J\/ewfUwzDJqLK4NG8QCUyYIXiEJUdaeojJyG1g="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "ClientApp.pdb": "sha256-eCdsJvNYzt8LLwPN5UAHGWYZGN3N0OFcdOVwnWqwUjg="
+      "ClientApp.pdb": "sha256-OIguQbxC3ZcaR0jl4nUD0oaxXv479Y1C2lcIXqB1zdk="
     },
     "runtime": {
       "dotnet.7.0.3.kzo80gzyhw.js": "sha256-DxGvmbtUa6hGJpk3VyMEbkPZ653qWbQkh8X4ZVM9TWM=",

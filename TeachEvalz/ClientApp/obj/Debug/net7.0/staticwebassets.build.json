@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3CkeNdmwJlqHV+zRiWX7M0Pm7645nk65FeYNfqXOXbk=",
+  "Hash": "Pxj1oKDJXEOcaPU4IhwjZNlumMgK4ow8XaQOgtbAxxo=",
   "Source": "ClientApp",
   "BasePath": "/",
   "Mode": "Root",
@@ -16,6 +16,40 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\Marti\\Desktop\\KostLAN\\banik pico\\TeachEvalz\\TeachEvalz\\ClientApp\\bin\\Debug\\net7.0\\wwwroot\\_framework\\AutoMapper.dll",
+      "SourceId": "ClientApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Marti\\Desktop\\KostLAN\\banik pico\\TeachEvalz\\TeachEvalz\\ClientApp\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/AutoMapper.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Marti\\.nuget\\packages\\automapper\\12.0.1\\lib\\netstandard2.1\\AutoMapper.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Marti\\Desktop\\KostLAN\\banik pico\\TeachEvalz\\TeachEvalz\\ClientApp\\bin\\Debug\\net7.0\\wwwroot\\_framework\\AutoMapper.Extensions.Microsoft.DependencyInjection.dll",
+      "SourceId": "ClientApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Marti\\Desktop\\KostLAN\\banik pico\\TeachEvalz\\TeachEvalz\\ClientApp\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/AutoMapper.Extensions.Microsoft.DependencyInjection.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Marti\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\lib\\netstandard2.1\\AutoMapper.Extensions.Microsoft.DependencyInjection.dll"
+    },
     {
       "Identity": "C:\\Users\\Marti\\Desktop\\KostLAN\\banik pico\\TeachEvalz\\TeachEvalz\\ClientApp\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.boot.json",
       "SourceId": "ClientApp",
@@ -6528,6 +6562,23 @@
       "OriginalItemSpec": "C:\\Users\\Marti\\Desktop\\KostLAN\\banik pico\\TeachEvalz\\TeachEvalz\\ClientApp\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Memory.dll"
     },
     {
+      "Identity": "C:\\Users\\Marti\\Desktop\\KostLAN\\banik pico\\TeachEvalz\\TeachEvalz\\ClientApp\\obj\\Debug\\net7.0\\build-gz\\TwhufNTd.gz",
+      "SourceId": "ClientApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Marti\\Desktop\\KostLAN\\banik pico\\TeachEvalz\\TeachEvalz\\ClientApp\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/AutoMapper.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Marti\\Desktop\\KostLAN\\banik pico\\TeachEvalz\\TeachEvalz\\ClientApp\\bin\\Debug\\net7.0\\wwwroot\\_framework\\AutoMapper.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Marti\\Desktop\\KostLAN\\banik pico\\TeachEvalz\\TeachEvalz\\ClientApp\\bin\\Debug\\net7.0\\wwwroot\\_framework\\AutoMapper.dll"
+    },
+    {
       "Identity": "C:\\Users\\Marti\\Desktop\\KostLAN\\banik pico\\TeachEvalz\\TeachEvalz\\ClientApp\\obj\\Debug\\net7.0\\build-gz\\U0O4Ien0.gz",
       "SourceId": "ClientApp",
       "SourceType": "Computed",
@@ -7036,6 +7087,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Marti\\Desktop\\KostLAN\\banik pico\\TeachEvalz\\TeachEvalz\\ClientApp\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Security.Cryptography.Encoding.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Marti\\Desktop\\KostLAN\\banik pico\\TeachEvalz\\TeachEvalz\\ClientApp\\obj\\Debug\\net7.0\\build-gz\\ZftrTK1r.gz",
+      "SourceId": "ClientApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Marti\\Desktop\\KostLAN\\banik pico\\TeachEvalz\\TeachEvalz\\ClientApp\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/AutoMapper.Extensions.Microsoft.DependencyInjection.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Marti\\Desktop\\KostLAN\\banik pico\\TeachEvalz\\TeachEvalz\\ClientApp\\bin\\Debug\\net7.0\\wwwroot\\_framework\\AutoMapper.Extensions.Microsoft.DependencyInjection.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Marti\\Desktop\\KostLAN\\banik pico\\TeachEvalz\\TeachEvalz\\ClientApp\\bin\\Debug\\net7.0\\wwwroot\\_framework\\AutoMapper.Extensions.Microsoft.DependencyInjection.dll"
     },
     {
       "Identity": "C:\\Users\\Marti\\Desktop\\KostLAN\\banik pico\\TeachEvalz\\TeachEvalz\\ClientApp\\obj\\Debug\\net7.0\\build-gz\\zGOueLEZ.gz",
