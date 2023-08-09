@@ -1,0 +1,97 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Marti\\Desktop\\KostLAN\\banik pico\\TeachEvalz\\TeachEvalz\\ClientApp\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\Marti\\Desktop\\KostLAN\\banik pico\\TeachEvalz\\TeachEvalz\\ClientApp\\obj\\Debug\\net7.0\\build-gz\\Bp8qi+MK.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\Marti\\Desktop\\KostLAN\\banik pico\\TeachEvalz\\TeachEvalz\\ClientApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\ClientApp.styles.css",
+      "PackagePath": "staticwebassets\\ClientApp.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Marti\\Desktop\\KostLAN\\banik pico\\TeachEvalz\\TeachEvalz\\ClientApp\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Marti\\Desktop\\KostLAN\\banik pico\\TeachEvalz\\TeachEvalz\\ClientApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Marti\\Desktop\\KostLAN\\banik pico\\TeachEvalz\\TeachEvalz\\ClientApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Marti\\Desktop\\KostLAN\\banik pico\\TeachEvalz\\TeachEvalz\\ClientApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\Marti\\Desktop\\KostLAN\\banik pico\\TeachEvalz\\TeachEvalz\\ClientApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\Marti\\Desktop\\KostLAN\\banik pico\\TeachEvalz\\TeachEvalz\\ClientApp\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Marti\\Desktop\\KostLAN\\banik pico\\TeachEvalz\\TeachEvalz\\ClientApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Marti\\Desktop\\KostLAN\\banik pico\\TeachEvalz\\TeachEvalz\\ClientApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Users\\Marti\\Desktop\\KostLAN\\banik pico\\TeachEvalz\\TeachEvalz\\ClientApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Users\\Marti\\Desktop\\KostLAN\\banik pico\\TeachEvalz\\TeachEvalz\\ClientApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Users\\Marti\\Desktop\\KostLAN\\banik pico\\TeachEvalz\\TeachEvalz\\ClientApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Marti\\Desktop\\KostLAN\\banik pico\\TeachEvalz\\TeachEvalz\\ClientApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Users\\Marti\\Desktop\\KostLAN\\banik pico\\TeachEvalz\\TeachEvalz\\ClientApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Marti\\Desktop\\KostLAN\\banik pico\\TeachEvalz\\TeachEvalz\\ClientApp\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\Marti\\Desktop\\KostLAN\\banik pico\\TeachEvalz\\TeachEvalz\\ClientApp\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Marti\\Desktop\\KostLAN\\banik pico\\TeachEvalz\\TeachEvalz\\ClientApp\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ClientApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ClientApp.props",
+      "PackagePath": "build\\ClientApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ClientApp.props",
+      "PackagePath": "buildMultiTargeting\\ClientApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ClientApp.props",
+      "PackagePath": "buildTransitive\\ClientApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
