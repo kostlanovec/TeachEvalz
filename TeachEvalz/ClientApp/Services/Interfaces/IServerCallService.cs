@@ -4,8 +4,8 @@ namespace ClientApp.Services.Interfaces
 {
     public interface IServerCallService
     {
-        protected Task<GrpcChannel> CreateChannel(string uri);
-        protected Task<GrpcChannel> CreateChannel(Uri uri);
+        Task<GrpcChannel> CreateChannel(string uri);
+        Task<GrpcChannel> CreateChannel(Uri uri);
 
     }
 }

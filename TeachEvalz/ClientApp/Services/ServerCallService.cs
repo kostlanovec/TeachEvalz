@@ -1,22 +1,41 @@
 ﻿using ClientApp.Services.Interfaces;
 using Grpc.Net.Client;
+using Grpc.Net.Client.Web;
+using Microsoft.AspNetCore.Components.Forms;
+using System;
 
 namespace ClientApp.Services
 {
     public class ServerCallService : IServerCallService
     {
-        public ServerCallService() { 
-        
+        /// <summary>
+        /// Constructor defines all services to be injected by DependencyInjection
+        /// </summary>
+        public ServerCallService() {
+             
         }
-
-        Task<GrpcChannel> IServerCallService.CreateChannel(string uri)
+        /// <summary>
+        /// Creates a gRPC channel out of given URI string
+        /// </summary>
+        /// <param name="uri"></param>
+        /// <returns>call-ready gRPC channel</returns>
+        public async Task<GrpcChannel> CreateChannel(string _uri)
         {
-            throw new NotImplementedException();
+            if (_uri == null)
+            {
+                throw new NullReferenceException("The given URI cannot be null.");
+            }
+            return await CreateChannel(new Uri(_uri));
         }
-
-        Task<GrpcChannel> IServerCallService.CreateChannel(Uri uri)
+        /// <summary>
+        /// Creates a gRPC channel out of given URI
+        /// </summary>
+        /// <param name="uri"></param>
+        /// <returns>call-ready gRPC channel</returns>
+        public async Task<GrpcChannel> CreateChannel(Uri uri)
         {
-            throw new NotImplementedException();
+            var httpClient = new HttpClient(new GrpcWebHandler(GrpcWebMode.GrpcWeb, new HttpClientHandler()));
+            return GrpcChannel.ForAddress(uri, new GrpcChannelOptions { HttpClient = httpClient });
         }
     }
 }

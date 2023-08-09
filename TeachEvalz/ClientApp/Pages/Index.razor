@@ -3,6 +3,8 @@
 @using Grpc.Net.ClientFactory;
 @using Grpc.Net.Client.Web;
 @using Microsoft.AspNetCore.Components;
+@using ClientApp.Services.Interfaces;
+@inject IServerCallService _serverCallService;
 
 <PageTitle>Index</PageTitle>
 
@@ -15,10 +17,7 @@ Welcome to your new app.
 @code {
     private async Task Greet()
     {
-        var httpClient = new HttpClient(new GrpcWebHandler(GrpcWebMode.GrpcWeb, new HttpClientHandler()));
-        Uri uri = new("https://localhost:7130");
-        var channel = GrpcChannel.ForAddress(uri, new GrpcChannelOptions { HttpClient = httpClient});
-        //client.SendAsync();
+        var channel = await _serverCallService.CreateChannel("https://localhost:7130");
         var client = new Greeter.GreeterClient(channel);
         var response = await client.SayHelloAsync(new HelloRequest { Name = "World" });
 
