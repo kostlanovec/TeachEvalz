@@ -1,0 +1,15 @@
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.Core\bin\Debug\net7.0\AppServer.Core.exe
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.Core\bin\Debug\net7.0\AppServer.Core.deps.json
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.Core\bin\Debug\net7.0\AppServer.Core.runtimeconfig.json
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.Core\bin\Debug\net7.0\AppServer.Core.dll
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.Core\bin\Debug\net7.0\AppServer.Core.pdb
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.Core\obj\Debug\net7.0\AppServer.Core.csproj.AssemblyReference.cache
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.Core\obj\Debug\net7.0\AppServer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.Core\obj\Debug\net7.0\AppServer.Core.AssemblyInfoInputs.cache
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.Core\obj\Debug\net7.0\AppServer.Core.AssemblyInfo.cs
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.Core\obj\Debug\net7.0\AppServer.Core.csproj.CoreCompileInputs.cache
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.Core\obj\Debug\net7.0\AppServer.Core.dll
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.Core\obj\Debug\net7.0\refint\AppServer.Core.dll
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.Core\obj\Debug\net7.0\AppServer.Core.pdb
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.Core\obj\Debug\net7.0\AppServer.Core.genruntimeconfig.cache
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.Core\obj\Debug\net7.0\ref\AppServer.Core.dll
