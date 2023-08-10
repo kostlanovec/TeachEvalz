@@ -8,6 +8,8 @@
 
   <ItemGroup>
     <Protobuf Include="Protos\greet.proto" GrpcServices="Client" />
+    <Protobuf Include="Protos\common.proto" GrpcServices="Client" />
+    <Protobuf Include="Protos\identity.proto" GrpcServices="Client" />
   </ItemGroup>
 
   <ItemGroup>
@@ -27,6 +29,12 @@
   
   <ItemGroup>
     <None Update="Protos\greet.proto">
+      <GrpcServices>Server</GrpcServices>
+    </None>
+    <None Update="Protos\common.proto">
+      <GrpcServices>Server</GrpcServices>
+    </None>
+    <None Update="Protos\identity.proto">
       <GrpcServices>Server</GrpcServices>
     </None>
   </ItemGroup>

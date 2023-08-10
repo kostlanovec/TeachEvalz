@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppServer.API", "AppServer.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClientApp", "ClientApp\ClientApp.csproj", "{380D0967-74CE-4D67-94DB-4F1CED0630C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppServer.Core", "AppServer.Core\AppServer.Core.csproj", "{AF1A4ACD-54AC-4BB6-BFF7-088954611101}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppServer.Core", "AppServer.Core\AppServer.Core.csproj", "{AF1A4ACD-54AC-4BB6-BFF7-088954611101}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

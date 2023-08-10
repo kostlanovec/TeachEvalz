@@ -1,0 +1,6 @@
+obj\Debug\net7.0\Protos/Identity.cs \
+obj\Debug\net7.0\Protos/IdentityGrpc.cs: C:/Users/Marti/.nuget/packages/grpc.tools/2.56.2/build/native/include/google/protobuf/wrappers.proto\
+ Protos/common.proto\
+ C:/Users/Marti/.nuget/packages/grpc.tools/2.56.2/build/native/include/google/protobuf/empty.proto\
+ C:/Users/Marti/.nuget/packages/grpc.tools/2.56.2/build/native/include/google/protobuf/Timestamp.proto\
+ Protos/identity.proto

@@ -1,0 +1,2 @@
+obj\Debug\net7.0\Protos/Common.cs: C:/Users/Marti/.nuget/packages/grpc.tools/2.56.2/build/native/include/google/protobuf/wrappers.proto\
+ Protos/common.proto

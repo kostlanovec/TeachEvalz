@@ -862,9 +862,18 @@ C:\Users\Marti\Desktop\KostLAN\banik pico\TeachEvalz\TeachEvalz\ClientApp\bin\De
 C:\Users\Marti\Desktop\KostLAN\banik pico\TeachEvalz\TeachEvalz\ClientApp\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\Marti\Desktop\KostLAN\banik pico\TeachEvalz\TeachEvalz\ClientApp\obj\Debug\net7.0\build-gz\TwhufNTd.gz
 C:\Users\Marti\Desktop\KostLAN\banik pico\TeachEvalz\TeachEvalz\ClientApp\obj\Debug\net7.0\build-gz\ZftrTK1r.gz
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\obj\Debug\net7.0\ClientApp.csproj.AssemblyReference.cache
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\obj\Debug\net7.0\ClientApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\obj\Debug\net7.0\ClientApp.AssemblyInfoInputs.cache
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\obj\Debug\net7.0\ClientApp.AssemblyInfo.cs
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\obj\Debug\net7.0\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\obj\Debug\net7.0\ClientApp.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\bin\Debug\net7.0\wwwroot\_framework\AutoMapper.dll
 C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\bin\Debug\net7.0\wwwroot\_framework\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\bin\Debug\net7.0\wwwroot\_framework\blazor.boot.json
 C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\bin\Debug\net7.0\wwwroot\_framework\blazor.webassembly.js
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\bin\Debug\net7.0\wwwroot\_framework\ClientApp.dll
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\bin\Debug\net7.0\wwwroot\_framework\ClientApp.pdb
 C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\bin\Debug\net7.0\wwwroot\_framework\dotnet.7.0.3.kzo80gzyhw.js
 C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\bin\Debug\net7.0\wwwroot\_framework\dotnet.timezones.blat
 C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\bin\Debug\net7.0\wwwroot\_framework\dotnet.wasm
@@ -1070,9 +1079,6 @@ C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\bin\Debug\net7.0\wwwroot\_fr
 C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.dll
 C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
 C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\bin\Debug\net7.0\wwwroot\_framework\WindowsBase.dll
-C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\bin\Debug\net7.0\wwwroot\_framework\blazor.boot.json
-C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\bin\Debug\net7.0\wwwroot\_framework\ClientApp.dll
-C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\bin\Debug\net7.0\wwwroot\_framework\ClientApp.pdb
 C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
 C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\bin\Debug\net7.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
 C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
@@ -1493,12 +1499,6 @@ C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\bin\Debug\net7.0\icudt.dat
 C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\bin\Debug\net7.0\icudt_CJK.dat
 C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\bin\Debug\net7.0\icudt_EFIGS.dat
 C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\bin\Debug\net7.0\icudt_no_CJK.dat
-C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\obj\Debug\net7.0\ClientApp.csproj.AssemblyReference.cache
-C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\obj\Debug\net7.0\ClientApp.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\obj\Debug\net7.0\ClientApp.AssemblyInfoInputs.cache
-C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\obj\Debug\net7.0\ClientApp.AssemblyInfo.cs
-C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\obj\Debug\net7.0\ClientApp.csproj.CoreCompileInputs.cache
-C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\obj\Debug\net7.0\ClientApp.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\obj\Debug\net7.0\build-gz\TwhufNTd.gz
 C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\obj\Debug\net7.0\build-gz\ZftrTK1r.gz
 C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\obj\Debug\net7.0\build-gz\t9Atx1SC.gz

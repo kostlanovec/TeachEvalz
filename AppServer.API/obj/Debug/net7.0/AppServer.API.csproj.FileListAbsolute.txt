@@ -36,11 +36,11 @@ C:\Users\Marti\Desktop\KostLAN\banik pico\TeachEvalz\TeachEvalz\AppServer.API\bi
 C:\Users\Marti\Desktop\KostLAN\banik pico\TeachEvalz\TeachEvalz\AppServer.API\bin\Debug\net7.0\Grpc.AspNetCore.Web.dll
 C:\Users\Marti\Desktop\KostLAN\banik pico\TeachEvalz\TeachEvalz\AppServer.API\bin\Debug\net7.0\AutoMapper.dll
 C:\Users\Marti\Desktop\KostLAN\banik pico\TeachEvalz\TeachEvalz\AppServer.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\bin\Debug\net7.0\appsettings.Development.json
-C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\bin\Debug\net7.0\appsettings.json
 C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\bin\Debug\net7.0\AppServer.Core.deps.json
 C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\bin\Debug\net7.0\AppServer.Core.runtimeconfig.json
 C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\bin\Debug\net7.0\AppServer.Core.exe
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\bin\Debug\net7.0\appsettings.json
 C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\bin\Debug\net7.0\AppServer.API.exe
 C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\bin\Debug\net7.0\AppServer.API.deps.json
 C:\Users\Marti\Desktop\KostLAN\TeachEvalz\AppServer.API\bin\Debug\net7.0\AppServer.API.runtimeconfig.json
