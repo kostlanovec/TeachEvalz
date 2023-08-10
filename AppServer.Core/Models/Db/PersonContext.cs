@@ -15,8 +15,8 @@ namespace AppServer.Core.Models.Db
         { }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlite("Data Source=person.db");
+            optionsBuilder.UseSqlite("Data Source=..\\AppServer.Core\\person.db");
         }
-        DbSet<Person> _persons {  get; set; }
+        public DbSet<Person> Persons {  get; set; }
     }
 }

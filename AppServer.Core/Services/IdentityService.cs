@@ -24,7 +24,7 @@ namespace AppServer.Core.Services
         {
 
             await _dbController.Test(request);
-             return null;
+            return null;
         }
     }
 }

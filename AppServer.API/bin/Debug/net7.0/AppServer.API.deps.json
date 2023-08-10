@@ -16,6 +16,7 @@
           "Grpc.Net.Client.Web": "2.55.0",
           "Grpc.Net.Common": "2.55.0",
           "Microsoft.AspNetCore.Cors": "2.2.0",
+          "Microsoft.EntityFrameworkCore.Tools": "7.0.10",
           "Microsoft.Extensions.DependencyInjection": "7.0.0"
         },
         "runtime": {
@@ -165,6 +166,14 @@
         }
       },
       "Grpc.Tools/2.55.1": {},
+      "Humanizer.Core/2.14.1": {
+        "runtime": {
+          "lib/net6.0/Humanizer.dll": {
+            "assemblyVersion": "2.14.0.0",
+            "fileVersion": "2.14.1.48190"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Cors/2.2.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Http.Extensions": "2.2.0",
@@ -229,6 +238,20 @@
         }
       },
       "Microsoft.EntityFrameworkCore.Analyzers/7.0.10": {},
+      "Microsoft.EntityFrameworkCore.Design/7.0.10": {
+        "dependencies": {
+          "Humanizer.Core": "2.14.1",
+          "Microsoft.EntityFrameworkCore.Relational": "7.0.10",
+          "Microsoft.Extensions.DependencyModel": "7.0.0",
+          "Mono.TextTemplating": "2.2.1"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.EntityFrameworkCore.Design.dll": {
+            "assemblyVersion": "7.0.10.0",
+            "fileVersion": "7.0.1023.36204"
+          }
+        }
+      },
       "Microsoft.EntityFrameworkCore.Relational/7.0.10": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "7.0.10",
@@ -258,6 +281,11 @@
             "assemblyVersion": "7.0.10.0",
             "fileVersion": "7.0.1023.36204"
           }
+        }
+      },
+      "Microsoft.EntityFrameworkCore.Tools/7.0.10": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Design": "7.0.10"
         }
       },
       "Microsoft.Extensions.Caching.Abstractions/7.0.0": {
@@ -519,6 +547,17 @@
             "assetType": "runtime",
             "assemblyVersion": "4.0.2.0",
             "fileVersion": "4.700.19.56404"
+          }
+        }
+      },
+      "Mono.TextTemplating/2.2.1": {
+        "dependencies": {
+          "System.CodeDom": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Mono.TextTemplating.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.1.1"
           }
         }
       },
@@ -965,6 +1004,13 @@
       "path": "grpc.tools/2.55.1",
       "hashPath": "grpc.tools.2.55.1.nupkg.sha512"
     },
+    "Humanizer.Core/2.14.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lQKvtaTDOXnoVJ20ibTuSIOf2i0uO0MPbDhd1jm238I+U/2ZnRENj0cktKZhtchBMtCUSRQ5v4xBCUbKNmyVMw==",
+      "path": "humanizer.core/2.14.1",
+      "hashPath": "humanizer.core.2.14.1.nupkg.sha512"
+    },
     "Microsoft.AspNetCore.Cors/2.2.0": {
       "type": "package",
       "serviceable": true,
@@ -1028,6 +1074,13 @@
       "path": "microsoft.entityframeworkcore.analyzers/7.0.10",
       "hashPath": "microsoft.entityframeworkcore.analyzers.7.0.10.nupkg.sha512"
     },
+    "Microsoft.EntityFrameworkCore.Design/7.0.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZDdJ2aAE529A1zd3sEvszADRCiJmlOKxc0WlhS+NIhSs68NESAApPZL4uHXrIk0vb7SBRnNPYPfOhASWf9dahg==",
+      "path": "microsoft.entityframeworkcore.design/7.0.10",
+      "hashPath": "microsoft.entityframeworkcore.design.7.0.10.nupkg.sha512"
+    },
     "Microsoft.EntityFrameworkCore.Relational/7.0.10": {
       "type": "package",
       "serviceable": true,
@@ -1048,6 +1101,13 @@
       "sha512": "sha512-9ujvh/RXXyXmSsh0yY3zI7S+E+ILzndLVsDkigXGkDPVrDqp7/ynqElj0Xb/e4qWHbg/ogoRe5rvUs0jzfl+xg==",
       "path": "microsoft.entityframeworkcore.sqlite.core/7.0.10",
       "hashPath": "microsoft.entityframeworkcore.sqlite.core.7.0.10.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore.Tools/7.0.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+ZctjoxaO3ZOxZGbnwjsycBbFmwcKiwbvoaIbaE4k693rYGo42svOVV+BAt+QbddkBnaAmikp8iWeus33Qj5mw==",
+      "path": "microsoft.entityframeworkcore.tools/7.0.10",
+      "hashPath": "microsoft.entityframeworkcore.tools.7.0.10.nupkg.sha512"
     },
     "Microsoft.Extensions.Caching.Abstractions/7.0.0": {
       "type": "package",
@@ -1279,6 +1339,13 @@
       "sha512": "sha512-mtVirZr++rq+XCDITMUdnETD59XoeMxSpLRIII7JRI6Yj0LEDiO1pPn0ktlnIj12Ix8bfvQqQDMMIF9wC98oCA==",
       "path": "microsoft.win32.systemevents/4.7.0",
       "hashPath": "microsoft.win32.systemevents.4.7.0.nupkg.sha512"
+    },
+    "Mono.TextTemplating/2.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KZYeKBET/2Z0gY1WlTAK7+RHTl7GSbtvTLDXEZZojUdAPqpQNDL6tHv7VUpqfX5VEOh+uRGKaZXkuD253nEOBQ==",
+      "path": "mono.texttemplating/2.2.1",
+      "hashPath": "mono.texttemplating.2.2.1.nupkg.sha512"
     },
     "runtime.native.System.Data.SqlClient.sni/4.7.0": {
       "type": "package",

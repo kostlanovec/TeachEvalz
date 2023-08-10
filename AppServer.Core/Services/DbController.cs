@@ -26,7 +26,7 @@ namespace AppServer.Core.Services
                 PersonId = 1,
             };
 
-            _ctx.Add(person);
+            _ctx.Persons.Add(person);
             _ctx.SaveChanges();
             return Task.CompletedTask;
         }

@@ -29,7 +29,7 @@ builder.Services.AddCors(options =>
 
 builder.Services.AddScoped<IIdentityService, IdentityService>()
     .AddScoped<IDbController, DbController>()
-    .AddDbContext<PersonContext>(options => options.UseSqlite("Data Source=person.db"))
+    .AddDbContext<PersonContext>(options => options.UseSqlite("C:\\Users\\Marti\\Desktop\\KostLAN\\TeachEvalz\\AppServer.Core\\person.db"))
     ; //Maps the interface to the class
 
 var app = builder.Build();
