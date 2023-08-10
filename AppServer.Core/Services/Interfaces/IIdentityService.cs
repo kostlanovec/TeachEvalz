@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AppServer.Core.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,5 +9,8 @@ namespace AppServer.Core.Services.Interfaces
 {
     public interface IIdentityService
     {
+        Task<CoreRegisterResponse> RegisterPerson(CoreRegisterRequest request);
+        Task<CoreLoginResponse> LoginPerson(CoreLoginRequest request);
+
     }
 }

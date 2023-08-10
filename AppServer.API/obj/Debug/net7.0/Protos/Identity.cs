@@ -35,21 +35,20 @@ namespace AppServer.API {
             "IAEoCSJXCg1Mb2dpblJlc3BvbnNlEhQKDGFjY2Vzc190b2tlbhgBIAEoCRIV",
             "Cg1yZWZyZXNoX3Rva2VuGAIgASgJEhkKB2ZhaWx1cmUYAyABKAsyCC5GYWls",
             "dXJlIjIKGVJlZnJlc2hBY2Nlc3NUb2tlblJlcXVlc3QSFQoNcmVmcmVzaF90",
-            "b2tlbhgCIAEoCSKWAQoVUmVnaXN0ZXJQZXJzb25SZXF1ZXN0EhAKCG5pY2tu",
-            "YW1lGAEgASgJEhsKE3ByaW1hcnlfbGFuZ3VhZ2VfaWQYAiABKAUSEgoKZmly",
-            "c3RfbmFtZRgDIAEoCRIRCglsYXN0X25hbWUYBCABKAkSEAoIcGFzc3dvcmQY",
-            "BSABKAkSFQoNcHJpbWFyeV9lbWFpbBgGIAEoCSJzChZSZWdpc3RlclBlcnNv",
-            "blJlc3BvbnNlEhQKDGFjY2Vzc190b2tlbhgBIAEoCRIVCg1yZWZyZXNoX3Rv",
-            "a2VuGAIgASgJEhEKCXBlcnNvbl9pZBgDIAEoAxIZCgdmYWlsdXJlGAQgASgL",
-            "MgguRmFpbHVyZTLgAgoISWRlbnRpdHkSOAoFTG9naW4SFi5pZGVudGl0eS5M",
-            "b2dpblJlcXVlc3QaFy5pZGVudGl0eS5Mb2dpblJlc3BvbnNlElIKElJlZnJl",
-            "c2hBY2Nlc3NUb2tlbhIjLmlkZW50aXR5LlJlZnJlc2hBY2Nlc3NUb2tlblJl",
-            "cXVlc3QaFy5pZGVudGl0eS5Mb2dpblJlc3BvbnNlEi4KAk1lEhYuZ29vZ2xl",
-            "LnByb3RvYnVmLkVtcHR5GhAuaWRlbnRpdHkuUGVyc29uEk0KCFJlZ2lzdGVy",
-            "Eh8uaWRlbnRpdHkuUmVnaXN0ZXJQZXJzb25SZXF1ZXN0GiAuaWRlbnRpdHku",
-            "UmVnaXN0ZXJQZXJzb25SZXNwb25zZRJHChpWYWxpZGF0ZVJlZ2lzdGVyUGVy",
-            "c29uRGF0YRIfLmlkZW50aXR5LlJlZ2lzdGVyUGVyc29uUmVxdWVzdBoILkZh",
-            "aWx1cmVCEKoCDUFwcFNlcnZlci5BUEliBnByb3RvMw=="));
+            "b2tlbhgCIAEoCSJnChVSZWdpc3RlclBlcnNvblJlcXVlc3QSEgoKZmlyc3Rf",
+            "bmFtZRgBIAEoCRIRCglsYXN0X25hbWUYAiABKAkSEAoIcGFzc3dvcmQYAyAB",
+            "KAkSFQoNcHJpbWFyeV9lbWFpbBgEIAEoCSJzChZSZWdpc3RlclBlcnNvblJl",
+            "c3BvbnNlEhQKDGFjY2Vzc190b2tlbhgBIAEoCRIVCg1yZWZyZXNoX3Rva2Vu",
+            "GAIgASgJEhEKCXBlcnNvbl9pZBgDIAEoAxIZCgdmYWlsdXJlGAQgASgLMggu",
+            "RmFpbHVyZTLgAgoISWRlbnRpdHkSOAoFTG9naW4SFi5pZGVudGl0eS5Mb2dp",
+            "blJlcXVlc3QaFy5pZGVudGl0eS5Mb2dpblJlc3BvbnNlElIKElJlZnJlc2hB",
+            "Y2Nlc3NUb2tlbhIjLmlkZW50aXR5LlJlZnJlc2hBY2Nlc3NUb2tlblJlcXVl",
+            "c3QaFy5pZGVudGl0eS5Mb2dpblJlc3BvbnNlEi4KAk1lEhYuZ29vZ2xlLnBy",
+            "b3RvYnVmLkVtcHR5GhAuaWRlbnRpdHkuUGVyc29uEk0KCFJlZ2lzdGVyEh8u",
+            "aWRlbnRpdHkuUmVnaXN0ZXJQZXJzb25SZXF1ZXN0GiAuaWRlbnRpdHkuUmVn",
+            "aXN0ZXJQZXJzb25SZXNwb25zZRJHChpWYWxpZGF0ZVJlZ2lzdGVyUGVyc29u",
+            "RGF0YRIfLmlkZW50aXR5LlJlZ2lzdGVyUGVyc29uUmVxdWVzdBoILkZhaWx1",
+            "cmVCEKoCDUFwcFNlcnZlci5BUEliBnByb3RvMw=="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::AppServer.API.CommonReflection.Descriptor, global::Google.Protobuf.WellKnownTypes.EmptyReflection.Descriptor, global::Google.Protobuf.WellKnownTypes.TimestampReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(null, null, new pbr::GeneratedClrTypeInfo[] {
@@ -57,7 +56,7 @@ namespace AppServer.API {
             new pbr::GeneratedClrTypeInfo(typeof(global::AppServer.API.LoginRequest), global::AppServer.API.LoginRequest.Parser, new[]{ "Email", "Password" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::AppServer.API.LoginResponse), global::AppServer.API.LoginResponse.Parser, new[]{ "AccessToken", "RefreshToken", "Failure" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::AppServer.API.RefreshAccessTokenRequest), global::AppServer.API.RefreshAccessTokenRequest.Parser, new[]{ "RefreshToken" }, null, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::AppServer.API.RegisterPersonRequest), global::AppServer.API.RegisterPersonRequest.Parser, new[]{ "Nickname", "PrimaryLanguageId", "FirstName", "LastName", "Password", "PrimaryEmail" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::AppServer.API.RegisterPersonRequest), global::AppServer.API.RegisterPersonRequest.Parser, new[]{ "FirstName", "LastName", "Password", "PrimaryEmail" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::AppServer.API.RegisterPersonResponse), global::AppServer.API.RegisterPersonResponse.Parser, new[]{ "AccessToken", "RefreshToken", "PersonId", "Failure" }, null, null, null, null)
           }));
     }
@@ -1181,8 +1180,6 @@ namespace AppServer.API {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public RegisterPersonRequest(RegisterPersonRequest other) : this() {
-      nickname_ = other.nickname_;
-      primaryLanguageId_ = other.primaryLanguageId_;
       firstName_ = other.firstName_;
       lastName_ = other.lastName_;
       password_ = other.password_;
@@ -1196,32 +1193,8 @@ namespace AppServer.API {
       return new RegisterPersonRequest(this);
     }
 
-    /// <summary>Field number for the "nickname" field.</summary>
-    public const int NicknameFieldNumber = 1;
-    private string nickname_ = "";
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
-    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-    public string Nickname {
-      get { return nickname_; }
-      set {
-        nickname_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
-      }
-    }
-
-    /// <summary>Field number for the "primary_language_id" field.</summary>
-    public const int PrimaryLanguageIdFieldNumber = 2;
-    private int primaryLanguageId_;
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
-    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-    public int PrimaryLanguageId {
-      get { return primaryLanguageId_; }
-      set {
-        primaryLanguageId_ = value;
-      }
-    }
-
     /// <summary>Field number for the "first_name" field.</summary>
-    public const int FirstNameFieldNumber = 3;
+    public const int FirstNameFieldNumber = 1;
     private string firstName_ = "";
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
@@ -1233,7 +1206,7 @@ namespace AppServer.API {
     }
 
     /// <summary>Field number for the "last_name" field.</summary>
-    public const int LastNameFieldNumber = 4;
+    public const int LastNameFieldNumber = 2;
     private string lastName_ = "";
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
@@ -1245,7 +1218,7 @@ namespace AppServer.API {
     }
 
     /// <summary>Field number for the "password" field.</summary>
-    public const int PasswordFieldNumber = 5;
+    public const int PasswordFieldNumber = 3;
     private string password_ = "";
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
@@ -1257,7 +1230,7 @@ namespace AppServer.API {
     }
 
     /// <summary>Field number for the "primary_email" field.</summary>
-    public const int PrimaryEmailFieldNumber = 6;
+    public const int PrimaryEmailFieldNumber = 4;
     private string primaryEmail_ = "";
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
@@ -1283,8 +1256,6 @@ namespace AppServer.API {
       if (ReferenceEquals(other, this)) {
         return true;
       }
-      if (Nickname != other.Nickname) return false;
-      if (PrimaryLanguageId != other.PrimaryLanguageId) return false;
       if (FirstName != other.FirstName) return false;
       if (LastName != other.LastName) return false;
       if (Password != other.Password) return false;
@@ -1296,8 +1267,6 @@ namespace AppServer.API {
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public override int GetHashCode() {
       int hash = 1;
-      if (Nickname.Length != 0) hash ^= Nickname.GetHashCode();
-      if (PrimaryLanguageId != 0) hash ^= PrimaryLanguageId.GetHashCode();
       if (FirstName.Length != 0) hash ^= FirstName.GetHashCode();
       if (LastName.Length != 0) hash ^= LastName.GetHashCode();
       if (Password.Length != 0) hash ^= Password.GetHashCode();
@@ -1320,28 +1289,20 @@ namespace AppServer.API {
     #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
       output.WriteRawMessage(this);
     #else
-      if (Nickname.Length != 0) {
-        output.WriteRawTag(10);
-        output.WriteString(Nickname);
-      }
-      if (PrimaryLanguageId != 0) {
-        output.WriteRawTag(16);
-        output.WriteInt32(PrimaryLanguageId);
-      }
       if (FirstName.Length != 0) {
-        output.WriteRawTag(26);
+        output.WriteRawTag(10);
         output.WriteString(FirstName);
       }
       if (LastName.Length != 0) {
-        output.WriteRawTag(34);
+        output.WriteRawTag(18);
         output.WriteString(LastName);
       }
       if (Password.Length != 0) {
-        output.WriteRawTag(42);
+        output.WriteRawTag(26);
         output.WriteString(Password);
       }
       if (PrimaryEmail.Length != 0) {
-        output.WriteRawTag(50);
+        output.WriteRawTag(34);
         output.WriteString(PrimaryEmail);
       }
       if (_unknownFields != null) {
@@ -1354,28 +1315,20 @@ namespace AppServer.API {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
-      if (Nickname.Length != 0) {
-        output.WriteRawTag(10);
-        output.WriteString(Nickname);
-      }
-      if (PrimaryLanguageId != 0) {
-        output.WriteRawTag(16);
-        output.WriteInt32(PrimaryLanguageId);
-      }
       if (FirstName.Length != 0) {
-        output.WriteRawTag(26);
+        output.WriteRawTag(10);
         output.WriteString(FirstName);
       }
       if (LastName.Length != 0) {
-        output.WriteRawTag(34);
+        output.WriteRawTag(18);
         output.WriteString(LastName);
       }
       if (Password.Length != 0) {
-        output.WriteRawTag(42);
+        output.WriteRawTag(26);
         output.WriteString(Password);
       }
       if (PrimaryEmail.Length != 0) {
-        output.WriteRawTag(50);
+        output.WriteRawTag(34);
         output.WriteString(PrimaryEmail);
       }
       if (_unknownFields != null) {
@@ -1388,12 +1341,6 @@ namespace AppServer.API {
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public int CalculateSize() {
       int size = 0;
-      if (Nickname.Length != 0) {
-        size += 1 + pb::CodedOutputStream.ComputeStringSize(Nickname);
-      }
-      if (PrimaryLanguageId != 0) {
-        size += 1 + pb::CodedOutputStream.ComputeInt32Size(PrimaryLanguageId);
-      }
       if (FirstName.Length != 0) {
         size += 1 + pb::CodedOutputStream.ComputeStringSize(FirstName);
       }
@@ -1417,12 +1364,6 @@ namespace AppServer.API {
     public void MergeFrom(RegisterPersonRequest other) {
       if (other == null) {
         return;
-      }
-      if (other.Nickname.Length != 0) {
-        Nickname = other.Nickname;
-      }
-      if (other.PrimaryLanguageId != 0) {
-        PrimaryLanguageId = other.PrimaryLanguageId;
       }
       if (other.FirstName.Length != 0) {
         FirstName = other.FirstName;
@@ -1452,26 +1393,18 @@ namespace AppServer.API {
             _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
             break;
           case 10: {
-            Nickname = input.ReadString();
-            break;
-          }
-          case 16: {
-            PrimaryLanguageId = input.ReadInt32();
-            break;
-          }
-          case 26: {
             FirstName = input.ReadString();
             break;
           }
-          case 34: {
+          case 18: {
             LastName = input.ReadString();
             break;
           }
-          case 42: {
+          case 26: {
             Password = input.ReadString();
             break;
           }
-          case 50: {
+          case 34: {
             PrimaryEmail = input.ReadString();
             break;
           }
@@ -1491,26 +1424,18 @@ namespace AppServer.API {
             _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
             break;
           case 10: {
-            Nickname = input.ReadString();
-            break;
-          }
-          case 16: {
-            PrimaryLanguageId = input.ReadInt32();
-            break;
-          }
-          case 26: {
             FirstName = input.ReadString();
             break;
           }
-          case 34: {
+          case 18: {
             LastName = input.ReadString();
             break;
           }
-          case 42: {
+          case 26: {
             Password = input.ReadString();
             break;
           }
-          case 50: {
+          case 34: {
             PrimaryEmail = input.ReadString();
             break;
           }
