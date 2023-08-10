@@ -6,7 +6,6 @@ namespace ClientApp.Services.Interfaces
     {
         Task<GrpcChannel> CreateChannel(string uri);
         Task<GrpcChannel> CreateChannel(Uri uri);
-        //Task<Greeter.GreeterClient> CreateGreeterClient(string uri);
 
     }
 }

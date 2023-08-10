@@ -6,7 +6,11 @@ namespace ClientApp.Services
 {
     public class AuthenticationService : IAuthenticationService
     {
-        public AuthenticationService() { }
+        protected readonly IServerCallService _serverCallService;
+        public AuthenticationService(IServerCallService serverCallService)
+        {
+            _serverCallService = serverCallService;
+        }
 
         /// <summary>
         /// Processes the LoginRequest and sends it to API
@@ -39,9 +43,11 @@ namespace ClientApp.Services
         /// Processes the RegisterPersonRequest and sends it to API
         /// </summary>
         /// <returns>RegisterPersonResponse</returns>
-        public Task<RegisterPersonResponse> RegisterPerson(RegisterPersonRequest request)
+        public async Task<RegisterPersonResponse> RegisterPerson(RegisterPersonRequest request)
         {
-            throw new NotImplementedException();
+            var channel = await _serverCallService.CreateChannel("https://localhost:7130");
+            var client = new Identity.IdentityClient(channel);
+            return await client.RegisterAsync(request);
         }
 
         /// <summary>

@@ -20,7 +20,8 @@ builder.Services.AddCors(options =>
     { 
         builder.WithOrigins("https://localhost:7024")
         .AllowAnyHeader()
-        .AllowAnyMethod(); 
+        .AllowAnyMethod()
+        .WithExposedHeaders("Grpc-Status", "Grpc-Message", "Grpc-Encoding", "Grpc-Accept-Encoding", "x-grpc-test-echo-initial", "x-grpc-test-echo-trailing-bin"); ;
     });
 });
 
@@ -33,6 +34,7 @@ app.UseCors("AllowSpecificOrigin");
 
 // Configure the HTTP request pipeline.
 app.MapGrpcService<GreeterService>().EnableGrpcWeb();
+app.MapGrpcService<AuthenticationService>().EnableGrpcWeb();
 app.MapGet("/", () => "Communication with gRPC endpoints must be made through a gRPC client. To learn how to create a client, visit: https://go.microsoft.com/fwlink/?linkid=2086909");
 
 app.Run();

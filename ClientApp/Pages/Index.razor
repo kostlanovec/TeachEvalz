@@ -5,6 +5,7 @@
 @using Microsoft.AspNetCore.Components;
 @using ClientApp.Services.Interfaces;
 @inject IServerCallService _serverCallService;
+@inject IAuthenticationService _authenticationService;
 
 <PageTitle>Index</PageTitle>
 
@@ -26,5 +27,16 @@ Welcome to your new app.
     protected override async Task OnInitializedAsync()
     {
         await Greet();
+        var response = await _authenticationService.RegisterPerson(new RegisterPersonRequest
+        {
+            FirstName = "Jan",
+            LastName = "Sebastian",
+            Nickname = "Kostik",
+            Password = "banan",
+            PrimaryEmail = "kostik@kostlanovec.cz",
+            PrimaryLanguageId = 727
+        }
+        );
+        Console.WriteLine(response.PersonId);
     }
 }
