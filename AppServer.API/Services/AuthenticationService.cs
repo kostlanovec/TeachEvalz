@@ -23,7 +23,6 @@ namespace AppServer.API.Services
             });*/
         public async override Task<RegisterPersonResponse> Register(RegisterPersonRequest request, ServerCallContext context)
         {
-            Console.WriteLine();
             return await Task.FromResult(new RegisterPersonResponse
             {
                 AccessToken = "KostLAN",

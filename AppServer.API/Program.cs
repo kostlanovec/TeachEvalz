@@ -25,7 +25,7 @@ builder.Services.AddCors(options =>
     });
 });
 
-builder.Services.AddScoped<IGreetService, GreetService>(); //Maps the interface to the class
+builder.Services.AddScoped<IIdentityService, IdentityService>(); //Maps the interface to the class
 
 var app = builder.Build();
 
@@ -33,7 +33,6 @@ app.UseGrpcWeb();
 app.UseCors("AllowSpecificOrigin");
 
 // Configure the HTTP request pipeline.
-app.MapGrpcService<GreeterService>().EnableGrpcWeb();
 app.MapGrpcService<AuthenticationService>().EnableGrpcWeb();
 app.MapGet("/", () => "Communication with gRPC endpoints must be made through a gRPC client. To learn how to create a client, visit: https://go.microsoft.com/fwlink/?linkid=2086909");
 

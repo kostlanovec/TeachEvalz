@@ -16,17 +16,8 @@ Welcome to your new app.
 <SurveyPrompt Title="How is Blazor working for you?" />
 
 @code {
-    private async Task Greet()
-    {
-        var channel = await _serverCallService.CreateChannel("https://localhost:7130");
-        var client = new Greeter.GreeterClient(channel);
-        var response = await client.SayHelloAsync(new HelloRequest { Name = "World" });
-        Console.WriteLine(response.Message);
-
-    }
     protected override async Task OnInitializedAsync()
     {
-        await Greet();
         var response = await _authenticationService.RegisterPerson(new RegisterPersonRequest
         {
             FirstName = "Jan",

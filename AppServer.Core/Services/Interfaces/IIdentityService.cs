@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace AppServer.Core.Services.Interfaces
 {
-    public interface IGreetService
+    public interface IIdentityService
     {
-        Task Hello(string name);
     }
 }
