@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QvlWeH5lH0oKYasTO9fx5/ogkVYeVKW740bYGdDr87w=",
+  "Source": "AppServer.API",
+  "BasePath": "_content/AppServer.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

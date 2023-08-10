@@ -1,8 +1,10 @@
 using AppServer.API.Services;
+using AppServer.Core.Models.Db;
 using AppServer.Core.Services;
 using AppServer.Core.Services.Interfaces;
 using Grpc.AspNetCore.Server;
 using Grpc.AspNetCore.Web;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -25,7 +27,10 @@ builder.Services.AddCors(options =>
     });
 });
 
-builder.Services.AddScoped<IIdentityService, IdentityService>(); //Maps the interface to the class
+builder.Services.AddScoped<IIdentityService, IdentityService>()
+    .AddScoped<IDbController, DbController>()
+    .AddDbContext<PersonContext>(options => options.UseSqlite("Data Source=person.db"))
+    ; //Maps the interface to the class
 
 var app = builder.Build();
 

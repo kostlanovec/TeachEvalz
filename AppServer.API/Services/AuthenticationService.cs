@@ -1,5 +1,5 @@
 using AppServer.API;
-using AppServer.Core.Models;
+using AppServer.Core.Models.Requests;
 using AppServer.Core.Services.Interfaces;
 using Google.Protobuf.WellKnownTypes;
 using Grpc.Core;

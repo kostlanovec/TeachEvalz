@@ -1,2 +1,18 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
+using Microsoft.EntityFrameworkCore;
+using AppServer.Core.Models.Db;
+using AppServer.Core.Services.Interfaces;
+using AppServer.Core.Services;
+
+var builder = Host.CreateDefaultBuilder(args);
+
+builder.ConfigureServices(services =>
+{
+    services.AddDbContext<PersonContext>(options => options.UseSqlite("Data Source=person.db"))
+    .AddScoped<IDbController, DbController>();
+});
+
+var app = builder.Build();
+
+app.Run();

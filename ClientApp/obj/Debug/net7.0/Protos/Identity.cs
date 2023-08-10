@@ -26,33 +26,33 @@ namespace ClientApp {
           string.Concat(
             "ChVQcm90b3MvaWRlbnRpdHkucHJvdG8SCGlkZW50aXR5GhNQcm90b3MvY29t",
             "bW9uLnByb3RvGhtnb29nbGUvcHJvdG9idWYvZW1wdHkucHJvdG8aH2dvb2ds",
-            "ZS9wcm90b2J1Zi90aW1lc3RhbXAucHJvdG8ixAEKBlBlcnNvbhIQCghwZXJz",
-            "b25JZBgBIAEoAxIuCgpjcmVhdGVkX2F0GAIgASgLMhouZ29vZ2xlLnByb3Rv",
-            "YnVmLlRpbWVzdGFtcBIzCgpkZWxldGVkX2F0GAMgASgLMhouZ29vZ2xlLnBy",
-            "b3RvYnVmLlRpbWVzdGFtcEgAiAEBEhIKCmZpcnN0X25hbWUYBCABKAkSEQoJ",
-            "bGFzdF9uYW1lGAUgASgJEg0KBWVtYWlsGAYgASgJQg0KC19kZWxldGVkX2F0",
-            "Ii8KDExvZ2luUmVxdWVzdBINCgVlbWFpbBgBIAEoCRIQCghwYXNzd29yZBgC",
-            "IAEoCSJXCg1Mb2dpblJlc3BvbnNlEhQKDGFjY2Vzc190b2tlbhgBIAEoCRIV",
-            "Cg1yZWZyZXNoX3Rva2VuGAIgASgJEhkKB2ZhaWx1cmUYAyABKAsyCC5GYWls",
-            "dXJlIjIKGVJlZnJlc2hBY2Nlc3NUb2tlblJlcXVlc3QSFQoNcmVmcmVzaF90",
-            "b2tlbhgCIAEoCSJnChVSZWdpc3RlclBlcnNvblJlcXVlc3QSEgoKZmlyc3Rf",
-            "bmFtZRgBIAEoCRIRCglsYXN0X25hbWUYAiABKAkSEAoIcGFzc3dvcmQYAyAB",
-            "KAkSFQoNcHJpbWFyeV9lbWFpbBgEIAEoCSJzChZSZWdpc3RlclBlcnNvblJl",
-            "c3BvbnNlEhQKDGFjY2Vzc190b2tlbhgBIAEoCRIVCg1yZWZyZXNoX3Rva2Vu",
-            "GAIgASgJEhEKCXBlcnNvbl9pZBgDIAEoAxIZCgdmYWlsdXJlGAQgASgLMggu",
-            "RmFpbHVyZTLgAgoISWRlbnRpdHkSOAoFTG9naW4SFi5pZGVudGl0eS5Mb2dp",
-            "blJlcXVlc3QaFy5pZGVudGl0eS5Mb2dpblJlc3BvbnNlElIKElJlZnJlc2hB",
-            "Y2Nlc3NUb2tlbhIjLmlkZW50aXR5LlJlZnJlc2hBY2Nlc3NUb2tlblJlcXVl",
-            "c3QaFy5pZGVudGl0eS5Mb2dpblJlc3BvbnNlEi4KAk1lEhYuZ29vZ2xlLnBy",
-            "b3RvYnVmLkVtcHR5GhAuaWRlbnRpdHkuUGVyc29uEk0KCFJlZ2lzdGVyEh8u",
-            "aWRlbnRpdHkuUmVnaXN0ZXJQZXJzb25SZXF1ZXN0GiAuaWRlbnRpdHkuUmVn",
-            "aXN0ZXJQZXJzb25SZXNwb25zZRJHChpWYWxpZGF0ZVJlZ2lzdGVyUGVyc29u",
-            "RGF0YRIfLmlkZW50aXR5LlJlZ2lzdGVyUGVyc29uUmVxdWVzdBoILkZhaWx1",
-            "cmVCDKoCCUNsaWVudEFwcGIGcHJvdG8z"));
+            "ZS9wcm90b2J1Zi90aW1lc3RhbXAucHJvdG8i1gEKBlBlcnNvbhIQCghwZXJz",
+            "b25JZBgBIAEoAxIQCghwYXNzd29yZBgCIAEoCRIuCgpjcmVhdGVkX2F0GAMg",
+            "ASgLMhouZ29vZ2xlLnByb3RvYnVmLlRpbWVzdGFtcBIzCgpkZWxldGVkX2F0",
+            "GAQgASgLMhouZ29vZ2xlLnByb3RvYnVmLlRpbWVzdGFtcEgAiAEBEhIKCmZp",
+            "cnN0X25hbWUYBSABKAkSEQoJbGFzdF9uYW1lGAYgASgJEg0KBWVtYWlsGAcg",
+            "ASgJQg0KC19kZWxldGVkX2F0Ii8KDExvZ2luUmVxdWVzdBINCgVlbWFpbBgB",
+            "IAEoCRIQCghwYXNzd29yZBgCIAEoCSJXCg1Mb2dpblJlc3BvbnNlEhQKDGFj",
+            "Y2Vzc190b2tlbhgBIAEoCRIVCg1yZWZyZXNoX3Rva2VuGAIgASgJEhkKB2Zh",
+            "aWx1cmUYAyABKAsyCC5GYWlsdXJlIjIKGVJlZnJlc2hBY2Nlc3NUb2tlblJl",
+            "cXVlc3QSFQoNcmVmcmVzaF90b2tlbhgCIAEoCSJnChVSZWdpc3RlclBlcnNv",
+            "blJlcXVlc3QSEgoKZmlyc3RfbmFtZRgBIAEoCRIRCglsYXN0X25hbWUYAiAB",
+            "KAkSEAoIcGFzc3dvcmQYAyABKAkSFQoNcHJpbWFyeV9lbWFpbBgEIAEoCSJz",
+            "ChZSZWdpc3RlclBlcnNvblJlc3BvbnNlEhQKDGFjY2Vzc190b2tlbhgBIAEo",
+            "CRIVCg1yZWZyZXNoX3Rva2VuGAIgASgJEhEKCXBlcnNvbl9pZBgDIAEoAxIZ",
+            "CgdmYWlsdXJlGAQgASgLMgguRmFpbHVyZTLgAgoISWRlbnRpdHkSOAoFTG9n",
+            "aW4SFi5pZGVudGl0eS5Mb2dpblJlcXVlc3QaFy5pZGVudGl0eS5Mb2dpblJl",
+            "c3BvbnNlElIKElJlZnJlc2hBY2Nlc3NUb2tlbhIjLmlkZW50aXR5LlJlZnJl",
+            "c2hBY2Nlc3NUb2tlblJlcXVlc3QaFy5pZGVudGl0eS5Mb2dpblJlc3BvbnNl",
+            "Ei4KAk1lEhYuZ29vZ2xlLnByb3RvYnVmLkVtcHR5GhAuaWRlbnRpdHkuUGVy",
+            "c29uEk0KCFJlZ2lzdGVyEh8uaWRlbnRpdHkuUmVnaXN0ZXJQZXJzb25SZXF1",
+            "ZXN0GiAuaWRlbnRpdHkuUmVnaXN0ZXJQZXJzb25SZXNwb25zZRJHChpWYWxp",
+            "ZGF0ZVJlZ2lzdGVyUGVyc29uRGF0YRIfLmlkZW50aXR5LlJlZ2lzdGVyUGVy",
+            "c29uUmVxdWVzdBoILkZhaWx1cmVCDKoCCUNsaWVudEFwcGIGcHJvdG8z"));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::ClientApp.CommonReflection.Descriptor, global::Google.Protobuf.WellKnownTypes.EmptyReflection.Descriptor, global::Google.Protobuf.WellKnownTypes.TimestampReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(null, null, new pbr::GeneratedClrTypeInfo[] {
-            new pbr::GeneratedClrTypeInfo(typeof(global::ClientApp.Person), global::ClientApp.Person.Parser, new[]{ "PersonId", "CreatedAt", "DeletedAt", "FirstName", "LastName", "Email" }, new[]{ "DeletedAt" }, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::ClientApp.Person), global::ClientApp.Person.Parser, new[]{ "PersonId", "Password", "CreatedAt", "DeletedAt", "FirstName", "LastName", "Email" }, new[]{ "DeletedAt" }, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::ClientApp.LoginRequest), global::ClientApp.LoginRequest.Parser, new[]{ "Email", "Password" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::ClientApp.LoginResponse), global::ClientApp.LoginResponse.Parser, new[]{ "AccessToken", "RefreshToken", "Failure" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::ClientApp.RefreshAccessTokenRequest), global::ClientApp.RefreshAccessTokenRequest.Parser, new[]{ "RefreshToken" }, null, null, null, null),
@@ -99,6 +99,7 @@ namespace ClientApp {
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public Person(Person other) : this() {
       personId_ = other.personId_;
+      password_ = other.password_;
       createdAt_ = other.createdAt_ != null ? other.createdAt_.Clone() : null;
       deletedAt_ = other.deletedAt_ != null ? other.deletedAt_.Clone() : null;
       firstName_ = other.firstName_;
@@ -125,8 +126,20 @@ namespace ClientApp {
       }
     }
 
+    /// <summary>Field number for the "password" field.</summary>
+    public const int PasswordFieldNumber = 2;
+    private string password_ = "";
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public string Password {
+      get { return password_; }
+      set {
+        password_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+
     /// <summary>Field number for the "created_at" field.</summary>
-    public const int CreatedAtFieldNumber = 2;
+    public const int CreatedAtFieldNumber = 3;
     private global::Google.Protobuf.WellKnownTypes.Timestamp createdAt_;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
@@ -138,7 +151,7 @@ namespace ClientApp {
     }
 
     /// <summary>Field number for the "deleted_at" field.</summary>
-    public const int DeletedAtFieldNumber = 3;
+    public const int DeletedAtFieldNumber = 4;
     private global::Google.Protobuf.WellKnownTypes.Timestamp deletedAt_;
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
@@ -150,7 +163,7 @@ namespace ClientApp {
     }
 
     /// <summary>Field number for the "first_name" field.</summary>
-    public const int FirstNameFieldNumber = 4;
+    public const int FirstNameFieldNumber = 5;
     private string firstName_ = "";
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
@@ -162,7 +175,7 @@ namespace ClientApp {
     }
 
     /// <summary>Field number for the "last_name" field.</summary>
-    public const int LastNameFieldNumber = 5;
+    public const int LastNameFieldNumber = 6;
     private string lastName_ = "";
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
@@ -174,7 +187,7 @@ namespace ClientApp {
     }
 
     /// <summary>Field number for the "email" field.</summary>
-    public const int EmailFieldNumber = 6;
+    public const int EmailFieldNumber = 7;
     private string email_ = "";
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
@@ -201,6 +214,7 @@ namespace ClientApp {
         return true;
       }
       if (PersonId != other.PersonId) return false;
+      if (Password != other.Password) return false;
       if (!object.Equals(CreatedAt, other.CreatedAt)) return false;
       if (!object.Equals(DeletedAt, other.DeletedAt)) return false;
       if (FirstName != other.FirstName) return false;
@@ -214,6 +228,7 @@ namespace ClientApp {
     public override int GetHashCode() {
       int hash = 1;
       if (PersonId != 0L) hash ^= PersonId.GetHashCode();
+      if (Password.Length != 0) hash ^= Password.GetHashCode();
       if (createdAt_ != null) hash ^= CreatedAt.GetHashCode();
       if (deletedAt_ != null) hash ^= DeletedAt.GetHashCode();
       if (FirstName.Length != 0) hash ^= FirstName.GetHashCode();
@@ -241,24 +256,28 @@ namespace ClientApp {
         output.WriteRawTag(8);
         output.WriteInt64(PersonId);
       }
-      if (createdAt_ != null) {
+      if (Password.Length != 0) {
         output.WriteRawTag(18);
+        output.WriteString(Password);
+      }
+      if (createdAt_ != null) {
+        output.WriteRawTag(26);
         output.WriteMessage(CreatedAt);
       }
       if (deletedAt_ != null) {
-        output.WriteRawTag(26);
+        output.WriteRawTag(34);
         output.WriteMessage(DeletedAt);
       }
       if (FirstName.Length != 0) {
-        output.WriteRawTag(34);
+        output.WriteRawTag(42);
         output.WriteString(FirstName);
       }
       if (LastName.Length != 0) {
-        output.WriteRawTag(42);
+        output.WriteRawTag(50);
         output.WriteString(LastName);
       }
       if (Email.Length != 0) {
-        output.WriteRawTag(50);
+        output.WriteRawTag(58);
         output.WriteString(Email);
       }
       if (_unknownFields != null) {
@@ -275,24 +294,28 @@ namespace ClientApp {
         output.WriteRawTag(8);
         output.WriteInt64(PersonId);
       }
-      if (createdAt_ != null) {
+      if (Password.Length != 0) {
         output.WriteRawTag(18);
+        output.WriteString(Password);
+      }
+      if (createdAt_ != null) {
+        output.WriteRawTag(26);
         output.WriteMessage(CreatedAt);
       }
       if (deletedAt_ != null) {
-        output.WriteRawTag(26);
+        output.WriteRawTag(34);
         output.WriteMessage(DeletedAt);
       }
       if (FirstName.Length != 0) {
-        output.WriteRawTag(34);
+        output.WriteRawTag(42);
         output.WriteString(FirstName);
       }
       if (LastName.Length != 0) {
-        output.WriteRawTag(42);
+        output.WriteRawTag(50);
         output.WriteString(LastName);
       }
       if (Email.Length != 0) {
-        output.WriteRawTag(50);
+        output.WriteRawTag(58);
         output.WriteString(Email);
       }
       if (_unknownFields != null) {
@@ -307,6 +330,9 @@ namespace ClientApp {
       int size = 0;
       if (PersonId != 0L) {
         size += 1 + pb::CodedOutputStream.ComputeInt64Size(PersonId);
+      }
+      if (Password.Length != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeStringSize(Password);
       }
       if (createdAt_ != null) {
         size += 1 + pb::CodedOutputStream.ComputeMessageSize(CreatedAt);
@@ -337,6 +363,9 @@ namespace ClientApp {
       }
       if (other.PersonId != 0L) {
         PersonId = other.PersonId;
+      }
+      if (other.Password.Length != 0) {
+        Password = other.Password;
       }
       if (other.createdAt_ != null) {
         if (createdAt_ == null) {
@@ -379,28 +408,32 @@ namespace ClientApp {
             break;
           }
           case 18: {
+            Password = input.ReadString();
+            break;
+          }
+          case 26: {
             if (createdAt_ == null) {
               CreatedAt = new global::Google.Protobuf.WellKnownTypes.Timestamp();
             }
             input.ReadMessage(CreatedAt);
             break;
           }
-          case 26: {
+          case 34: {
             if (deletedAt_ == null) {
               DeletedAt = new global::Google.Protobuf.WellKnownTypes.Timestamp();
             }
             input.ReadMessage(DeletedAt);
             break;
           }
-          case 34: {
+          case 42: {
             FirstName = input.ReadString();
             break;
           }
-          case 42: {
+          case 50: {
             LastName = input.ReadString();
             break;
           }
-          case 50: {
+          case 58: {
             Email = input.ReadString();
             break;
           }
@@ -424,28 +457,32 @@ namespace ClientApp {
             break;
           }
           case 18: {
+            Password = input.ReadString();
+            break;
+          }
+          case 26: {
             if (createdAt_ == null) {
               CreatedAt = new global::Google.Protobuf.WellKnownTypes.Timestamp();
             }
             input.ReadMessage(CreatedAt);
             break;
           }
-          case 26: {
+          case 34: {
             if (deletedAt_ == null) {
               DeletedAt = new global::Google.Protobuf.WellKnownTypes.Timestamp();
             }
             input.ReadMessage(DeletedAt);
             break;
           }
-          case 34: {
+          case 42: {
             FirstName = input.ReadString();
             break;
           }
-          case 42: {
+          case 50: {
             LastName = input.ReadString();
             break;
           }
-          case 50: {
+          case 58: {
             Email = input.ReadString();
             break;
           }
