@@ -1,6 +1,7 @@
 using AppServer.API;
 using AppServer.Core.Models;
 using AppServer.Core.Services.Interfaces;
+using Google.Protobuf.WellKnownTypes;
 using Grpc.Core;
 using System.Runtime.CompilerServices;
 
@@ -15,15 +16,6 @@ namespace AppServer.API.Services
             _logger = logger;
             _identityService = identityService;
         }
-
-        /*public override Task<HelloReply> SayHello(HelloRequest request, ServerCallContext context)
-        {
-            _greetService.Hello(request.Name); //An example of calling an core service from API
-
-            return Task.FromResult(new HelloReply
-            {
-                Message = "Hello " + request.Name
-            });*/
         public async override Task<RegisterPersonResponse> Register(RegisterPersonRequest request, ServerCallContext context)
         {
             CoreRegisterResponse result = await _identityService.RegisterPerson(new CoreRegisterRequest
@@ -41,7 +33,22 @@ namespace AppServer.API.Services
                 PersonId = result.person_id
             };
         }
+        public async override Task<LoginResponse> Login(LoginRequest request, ServerCallContext context)
+        {
+            throw new NotImplementedException();
+        }
 
-        //public async override
+        public async override Task<Person> Me(Empty request, ServerCallContext context)
+        {
+            throw new NotImplementedException();
+        }
+        public async override Task<LoginResponse> RefreshAccessToken(RefreshAccessTokenRequest request, ServerCallContext context)
+        {
+            throw new NotImplementedException();
+        }
+        public async override Task<Failure> ValidateRegisterPersonData(RegisterPersonRequest request, ServerCallContext context)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
