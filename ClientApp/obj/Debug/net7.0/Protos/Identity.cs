@@ -26,7 +26,7 @@ namespace ClientApp {
           string.Concat(
             "ChVQcm90b3MvaWRlbnRpdHkucHJvdG8SCGlkZW50aXR5GhNQcm90b3MvY29t",
             "bW9uLnByb3RvGhtnb29nbGUvcHJvdG9idWYvZW1wdHkucHJvdG8aH2dvb2ds",
-            "ZS9wcm90b2J1Zi9UaW1lc3RhbXAucHJvdG8ixAEKBlBlcnNvbhIQCghwZXJz",
+            "ZS9wcm90b2J1Zi90aW1lc3RhbXAucHJvdG8ixAEKBlBlcnNvbhIQCghwZXJz",
             "b25JZBgBIAEoAxIuCgpjcmVhdGVkX2F0GAIgASgLMhouZ29vZ2xlLnByb3Rv",
             "YnVmLlRpbWVzdGFtcBIzCgpkZWxldGVkX2F0GAMgASgLMhouZ29vZ2xlLnBy",
             "b3RvYnVmLlRpbWVzdGFtcEgAiAEBEhIKCmZpcnN0X25hbWUYBCABKAkSEQoJ",
