@@ -9,8 +9,7 @@ var builder = Host.CreateDefaultBuilder(args);
 
 builder.ConfigureServices(services =>
 {
-    services.AddDbContext<PersonContext>(options => options.UseSqlite("Data Source=person.db"))
-    .AddScoped<IDbController, DbController>();
+    services.AddDbContext<PersonContext>(options => options.UseSqlite("Data Source=person.db"));
 });
 
 var app = builder.Build();

@@ -11,9 +11,9 @@ namespace AppServer.Core.Services
 {
     public class IdentityService : IIdentityService
     {
-        private readonly IDbController _dbController;
-        public IdentityService(IDbController dbController) {
-            _dbController = dbController;
+        protected readonly PersonContext _ctx; //Persons Context
+        public IdentityService(PersonContext personContext) {
+            _ctx = personContext;
         }
         public async Task<CoreLoginResponse> LoginPerson(CoreLoginRequest request)
         {
@@ -23,8 +23,17 @@ namespace AppServer.Core.Services
         public async Task<CoreRegisterResponse> RegisterPerson(CoreRegisterRequest request)
         {
 
-            await _dbController.Test(request);
-            return null;
+            Person person = new Person
+            {
+                Email = request.email,
+                FirstName = request.first_name,
+                LastName = request.last_name,
+                Password = request.password, //Needs some hashing for future
+            };
+
+            _ctx.Persons.Add(person);
+            _ctx.SaveChanges();
+            return new CoreRegisterResponse();
         }
     }
 }
