@@ -68,10 +68,7 @@ namespace AppServer.Core.Services
             if (!request.email.EndsWith("@pslib.cz"))
             {
                 result.Code = 3;
-                Console.WriteLine(result.Code);
-
             }
-            
 
             return result;
         }

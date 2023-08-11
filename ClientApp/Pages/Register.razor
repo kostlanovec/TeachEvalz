@@ -1,0 +1,24 @@
+﻿@page "/register"
+@using ClientApp.Services.Interfaces;
+@inject NavigationManager _navigationManager; //Best case scenario use this for all navigations!
+@inject IAuthenticationService _authenticationService;
+
+<h3>Register</h3>
+
+<EditForm Model="@request" OnValidSubmit="@HandleValidSubmit">
+    <InputText @bind-Value="request.FirstName" placeholder="First Name"/>
+    <InputText @bind-Value="request.LastName" placeholder="Last Name" />
+    <InputText @bind-Value="request.PrimaryEmail" placeholder="Email Name" />
+    <InputText @bind-Value="request.Password" placeholder="Password Name" />
+    <button type="submit">Submit</button>
+</EditForm>
+
+@code {
+    RegisterPersonRequest request = new RegisterPersonRequest();
+
+    protected async Task HandleValidSubmit()
+    {
+        var response = await _authenticationService.RegisterPerson(request);
+        Console.WriteLine(response.PersonId);
+    }
+}

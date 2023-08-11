@@ -18,14 +18,6 @@ Welcome to your new app.
 @code {
     protected override async Task OnInitializedAsync()
     {
-        var response = await _authenticationService.RegisterPerson(new RegisterPersonRequest
-        {
-            FirstName = "Jan",
-            LastName = "Sebastian",
-            Password = "banan",
-            PrimaryEmail = "kostik@kostlanovec.cz"
-        }
-        );
-        Console.WriteLine(response.PersonId);
+        
     }
 }
