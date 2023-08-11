@@ -50,6 +50,7 @@ namespace AppServer.Core.Services
                 FirstName = request.first_name,
                 LastName = request.last_name,
                 Password = request.password, //Needs some hashing for future
+                IsAdmin = false
             };
 
             _ctx.Persons.Add(person);
