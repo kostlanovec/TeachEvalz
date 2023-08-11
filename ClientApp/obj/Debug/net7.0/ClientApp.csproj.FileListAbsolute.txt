@@ -1507,7 +1507,6 @@ C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\obj\Debug\net7.0\build-gz\5q
 C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\obj\Debug\net7.0\build-gz\gjV5tkuk.gz
 C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\obj\Debug\net7.0\build-gz\E0wmJUXN.gz
 C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\obj\Debug\net7.0\build-gz\eV9yiwB0.gz
-C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\obj\Debug\net7.0\build-gz\37XMDR0b.gz
 C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\obj\Debug\net7.0\build-gz\SoSKyVFh.gz
 C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\obj\Debug\net7.0\build-gz\bDg8l12h.gz
 C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\obj\Debug\net7.0\build-gz\1VvMU6VI.gz
@@ -1750,3 +1749,8 @@ C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\obj\Debug\net7.0\build-gz\a8
 C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\obj\Debug\net7.0\build-gz\my0mTjdE.gz
 C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\obj\Debug\net7.0\build-gz\hlpuA90P.gz
 C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\obj\Debug\net7.0\build-gz\qz5y3zyl.gz
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Authorization.dll.gz
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\obj\Debug\net7.0\build-gz\j98dR+Ym.gz
+C:\Users\Marti\Desktop\KostLAN\TeachEvalz\ClientApp\obj\Debug\net7.0\build-gz\sN64lOgZ.gz

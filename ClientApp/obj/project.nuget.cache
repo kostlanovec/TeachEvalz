@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "WkQEj6FCJep35x5gEG39GgPb3X+zsTN9SfCRtDq/FItyRFCBxKbIgd1kl+t83SrwDPvw8BL05chZalnSf/EpiQ==",
+  "dgSpecHash": "0qwWGEhbwjQLXUalmsPX84owM53DZjQCWHxy6Np6hXt5ka1zTOIP0G8Z1LUqIMLqMxEz72nw4AWWoHuTJzuKgQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Marti\\Desktop\\KostLAN\\TeachEvalz\\ClientApp\\ClientApp.csproj",
   "expectedPackageFiles": [
@@ -15,8 +15,9 @@
     "C:\\Users\\Marti\\.nuget\\packages\\grpc.net.common\\2.55.0\\grpc.net.common.2.55.0.nupkg.sha512",
     "C:\\Users\\Marti\\.nuget\\packages\\grpc.tools\\2.56.2\\grpc.tools.2.56.2.nupkg.sha512",
     "C:\\Users\\Marti\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.10\\microsoft.aspnetcore.authorization.7.0.10.nupkg.sha512",
-    "C:\\Users\\Marti\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.3\\microsoft.aspnetcore.components.7.0.3.nupkg.sha512",
-    "C:\\Users\\Marti\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\7.0.3\\microsoft.aspnetcore.components.analyzers.7.0.3.nupkg.sha512",
+    "C:\\Users\\Marti\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.10\\microsoft.aspnetcore.components.7.0.10.nupkg.sha512",
+    "C:\\Users\\Marti\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\7.0.10\\microsoft.aspnetcore.components.analyzers.7.0.10.nupkg.sha512",
+    "C:\\Users\\Marti\\.nuget\\packages\\microsoft.aspnetcore.components.authorization\\7.0.10\\microsoft.aspnetcore.components.authorization.7.0.10.nupkg.sha512",
     "C:\\Users\\Marti\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\7.0.3\\microsoft.aspnetcore.components.forms.7.0.3.nupkg.sha512",
     "C:\\Users\\Marti\\.nuget\\packages\\microsoft.aspnetcore.components.web\\7.0.3\\microsoft.aspnetcore.components.web.7.0.3.nupkg.sha512",
     "C:\\Users\\Marti\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\7.0.3\\microsoft.aspnetcore.components.webassembly.7.0.3.nupkg.sha512",

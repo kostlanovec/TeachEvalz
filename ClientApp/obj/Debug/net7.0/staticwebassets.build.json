@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ZR6PjIixarWaKCMFID35jLiD1fsBE4XFyE2VbTqNN8M=",
+  "Hash": "BvPNah4CZTpFyLMNWGS0k0MYrOXVZA+EZoM0B1FzRc4=",
   "Source": "ClientApp",
   "BasePath": "/",
   "Mode": "Root",
@@ -374,6 +374,23 @@
       "OriginalItemSpec": "C:\\Users\\Marti\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.10\\lib\\net7.0\\Microsoft.AspNetCore.Authorization.dll"
     },
     {
+      "Identity": "C:\\Users\\Marti\\Desktop\\KostLAN\\TeachEvalz\\ClientApp\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll",
+      "SourceId": "ClientApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Marti\\Desktop\\KostLAN\\TeachEvalz\\ClientApp\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Authorization.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Marti\\.nuget\\packages\\microsoft.aspnetcore.components.authorization\\7.0.10\\lib\\net7.0\\Microsoft.AspNetCore.Components.Authorization.dll"
+    },
+    {
       "Identity": "C:\\Users\\Marti\\Desktop\\KostLAN\\TeachEvalz\\ClientApp\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
       "SourceId": "ClientApp",
       "SourceType": "Computed",
@@ -388,7 +405,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Marti\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.3\\lib\\net7.0\\Microsoft.AspNetCore.Components.dll"
+      "OriginalItemSpec": "C:\\Users\\Marti\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.10\\lib\\net7.0\\Microsoft.AspNetCore.Components.dll"
     },
     {
       "Identity": "C:\\Users\\Marti\\Desktop\\KostLAN\\TeachEvalz\\ClientApp\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
@@ -3927,23 +3944,6 @@
       "OriginalItemSpec": "C:\\Users\\Marti\\Desktop\\KostLAN\\TeachEvalz\\ClientApp\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Net.Http.dll"
     },
     {
-      "Identity": "C:\\Users\\Marti\\Desktop\\KostLAN\\TeachEvalz\\ClientApp\\obj\\Debug\\net7.0\\build-gz\\37XMDR0b.gz",
-      "SourceId": "ClientApp",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Marti\\Desktop\\KostLAN\\TeachEvalz\\ClientApp\\bin\\Debug\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Marti\\Desktop\\KostLAN\\TeachEvalz\\ClientApp\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Marti\\Desktop\\KostLAN\\TeachEvalz\\ClientApp\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll"
-    },
-    {
       "Identity": "C:\\Users\\Marti\\Desktop\\KostLAN\\TeachEvalz\\ClientApp\\obj\\Debug\\net7.0\\build-gz\\3bT8AtoB.gz",
       "SourceId": "ClientApp",
       "SourceType": "Computed",
@@ -5406,6 +5406,23 @@
       "OriginalItemSpec": "C:\\Users\\Marti\\Desktop\\KostLAN\\TeachEvalz\\ClientApp\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Globalization.Calendars.dll"
     },
     {
+      "Identity": "C:\\Users\\Marti\\Desktop\\KostLAN\\TeachEvalz\\ClientApp\\obj\\Debug\\net7.0\\build-gz\\j98dR+Ym.gz",
+      "SourceId": "ClientApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Marti\\Desktop\\KostLAN\\TeachEvalz\\ClientApp\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Marti\\Desktop\\KostLAN\\TeachEvalz\\ClientApp\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Marti\\Desktop\\KostLAN\\TeachEvalz\\ClientApp\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll"
+    },
+    {
       "Identity": "C:\\Users\\Marti\\Desktop\\KostLAN\\TeachEvalz\\ClientApp\\obj\\Debug\\net7.0\\build-gz\\JGa7elh8.gz",
       "SourceId": "ClientApp",
       "SourceType": "Computed",
@@ -6543,6 +6560,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Marti\\Desktop\\KostLAN\\TeachEvalz\\ClientApp\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Net.Quic.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Marti\\Desktop\\KostLAN\\TeachEvalz\\ClientApp\\obj\\Debug\\net7.0\\build-gz\\sN64lOgZ.gz",
+      "SourceId": "ClientApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Marti\\Desktop\\KostLAN\\TeachEvalz\\ClientApp\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Authorization.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Marti\\Desktop\\KostLAN\\TeachEvalz\\ClientApp\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Marti\\Desktop\\KostLAN\\TeachEvalz\\ClientApp\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\Marti\\Desktop\\KostLAN\\TeachEvalz\\ClientApp\\obj\\Debug\\net7.0\\build-gz\\SoSKyVFh.gz",
