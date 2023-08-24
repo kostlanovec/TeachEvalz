@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marti\\Desktop\\KostLAN\\TeachEvalz\\AppServer.API\\AppServer.API.csproj": {}
+    "C:\\Users\\Kostik\\source\\repos\\kostlanovec\\TeachEvalz\\AppServer.API\\AppServer.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marti\\Desktop\\KostLAN\\TeachEvalz\\AppServer.API\\AppServer.API.csproj": {
+    "C:\\Users\\Kostik\\source\\repos\\kostlanovec\\TeachEvalz\\AppServer.API\\AppServer.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marti\\Desktop\\KostLAN\\TeachEvalz\\AppServer.API\\AppServer.API.csproj",
+        "projectUniqueName": "C:\\Users\\Kostik\\source\\repos\\kostlanovec\\TeachEvalz\\AppServer.API\\AppServer.API.csproj",
         "projectName": "AppServer.API",
-        "projectPath": "C:\\Users\\Marti\\Desktop\\KostLAN\\TeachEvalz\\AppServer.API\\AppServer.API.csproj",
-        "packagesPath": "C:\\Users\\Marti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marti\\Desktop\\KostLAN\\TeachEvalz\\AppServer.API\\obj\\",
+        "projectPath": "C:\\Users\\Kostik\\source\\repos\\kostlanovec\\TeachEvalz\\AppServer.API\\AppServer.API.csproj",
+        "packagesPath": "C:\\Users\\Kostik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kostik\\source\\repos\\kostlanovec\\TeachEvalz\\AppServer.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Marti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kostik\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,14 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/usm9cbeBMf6wWVQbjXliPLtkxcAOtBPgfZojydupV6RfVrCGC6/api": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Marti\\Desktop\\KostLAN\\TeachEvalz\\AppServer.Core\\AppServer.Core.csproj": {
-                "projectPath": "C:\\Users\\Marti\\Desktop\\KostLAN\\TeachEvalz\\AppServer.Core\\AppServer.Core.csproj"
+              "C:\\Users\\Kostik\\source\\repos\\kostlanovec\\TeachEvalz\\AppServer.Core\\AppServer.Core.csproj": {
+                "projectPath": "C:\\Users\\Kostik\\source\\repos\\kostlanovec\\TeachEvalz\\AppServer.Core\\AppServer.Core.csproj"
               }
             }
           }
@@ -100,24 +101,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Marti\\Desktop\\KostLAN\\TeachEvalz\\AppServer.Core\\AppServer.Core.csproj": {
+    "C:\\Users\\Kostik\\source\\repos\\kostlanovec\\TeachEvalz\\AppServer.Core\\AppServer.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marti\\Desktop\\KostLAN\\TeachEvalz\\AppServer.Core\\AppServer.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Kostik\\source\\repos\\kostlanovec\\TeachEvalz\\AppServer.Core\\AppServer.Core.csproj",
         "projectName": "AppServer.Core",
-        "projectPath": "C:\\Users\\Marti\\Desktop\\KostLAN\\TeachEvalz\\AppServer.Core\\AppServer.Core.csproj",
-        "packagesPath": "C:\\Users\\Marti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marti\\Desktop\\KostLAN\\TeachEvalz\\AppServer.Core\\obj\\",
+        "projectPath": "C:\\Users\\Kostik\\source\\repos\\kostlanovec\\TeachEvalz\\AppServer.Core\\AppServer.Core.csproj",
+        "packagesPath": "C:\\Users\\Kostik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kostik\\source\\repos\\kostlanovec\\TeachEvalz\\AppServer.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Marti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kostik\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -126,7 +127,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/usm9cbeBMf6wWVQbjXliPLtkxcAOtBPgfZojydupV6RfVrCGC6/api": {}
         },
         "frameworks": {
           "net7.0": {
@@ -159,7 +161,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

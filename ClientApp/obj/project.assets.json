@@ -2480,23 +2480,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Marti\\.nuget\\packages\\": {},
+    "C:\\Users\\Kostik\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marti\\Desktop\\KostLAN\\TeachEvalz\\ClientApp\\ClientApp.csproj",
+      "projectUniqueName": "C:\\Users\\Kostik\\source\\repos\\kostlanovec\\TeachEvalz\\ClientApp\\ClientApp.csproj",
       "projectName": "ClientApp",
-      "projectPath": "C:\\Users\\Marti\\Desktop\\KostLAN\\TeachEvalz\\ClientApp\\ClientApp.csproj",
-      "packagesPath": "C:\\Users\\Marti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marti\\Desktop\\KostLAN\\TeachEvalz\\ClientApp\\obj\\",
+      "projectPath": "C:\\Users\\Kostik\\source\\repos\\kostlanovec\\TeachEvalz\\ClientApp\\ClientApp.csproj",
+      "packagesPath": "C:\\Users\\Kostik\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Kostik\\source\\repos\\kostlanovec\\TeachEvalz\\ClientApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Marti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Kostik\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2505,7 +2505,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.devexpress.com/usm9cbeBMf6wWVQbjXliPLtkxcAOtBPgfZojydupV6RfVrCGC6/api": {}
       },
       "frameworks": {
         "net7.0": {
@@ -2577,7 +2578,7 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-            "version": "[7.0.3, 7.0.3]"
+            "version": "[7.0.10, 7.0.10]"
           }
         ],
         "frameworkReferences": {
@@ -2585,7 +2586,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

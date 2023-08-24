@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kostik\\source\\repos\\kostlanovec\\TeachEvalz\\AppServer.Core\\AppServer.Core.csproj": {}
+    "C:\\Users\\Kostik\\source\\repos\\kostlanovec\\TeachEvalz\\AppServer.DataAccess\\AppServer.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kostik\\source\\repos\\kostlanovec\\TeachEvalz\\AppServer.Core\\AppServer.Core.csproj": {
+    "C:\\Users\\Kostik\\source\\repos\\kostlanovec\\TeachEvalz\\AppServer.DataAccess\\AppServer.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kostik\\source\\repos\\kostlanovec\\TeachEvalz\\AppServer.Core\\AppServer.Core.csproj",
-        "projectName": "AppServer.Core",
-        "projectPath": "C:\\Users\\Kostik\\source\\repos\\kostlanovec\\TeachEvalz\\AppServer.Core\\AppServer.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Kostik\\source\\repos\\kostlanovec\\TeachEvalz\\AppServer.DataAccess\\AppServer.DataAccess.csproj",
+        "projectName": "AppServer.DataAccess",
+        "projectPath": "C:\\Users\\Kostik\\source\\repos\\kostlanovec\\TeachEvalz\\AppServer.DataAccess\\AppServer.DataAccess.csproj",
         "packagesPath": "C:\\Users\\Kostik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kostik\\source\\repos\\kostlanovec\\TeachEvalz\\AppServer.Core\\obj\\",
+        "outputPath": "C:\\Users\\Kostik\\source\\repos\\kostlanovec\\TeachEvalz\\AppServer.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,6 +44,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
